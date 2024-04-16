@@ -200,10 +200,7 @@ By incorporating these recommendations into your app development strategy, you c
 
 ---
 
-**Kaggle Dataset: Apple App Store Apps**
 
-**Description:**  
-This Kaggle dataset provides a comprehensive collection of data related to Apple App Store apps, including app names, categories, user ratings, pricing, and more. It serves as a valuable resource for data analysis and machine learning projects focused on mobile applications.
 
 **Link:**  
 [Apple App Store Apps Dataset on Kaggle](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps?resource=download)
