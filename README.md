@@ -168,7 +168,7 @@ WHERE a.rank = 1;
 
 ## Recommendations
 
-Certainly! Here are the recommendations in UK English:
+
 
 1. **Prioritise Developing Paid Apps**: Given that paid apps tend to garner better ratings, consider focusing on the development of paid applications. Ensure that the paid apps offer unique value propositions or enhanced features to justify the cost to users.
 
@@ -185,7 +185,7 @@ Certainly! Here are the recommendations in UK English:
 By incorporating these recommendations into your app development strategy, you can increase the likelihood of developing successful and well-received apps that resonate with users and achieve higher ratings in the competitive app market.
 ## Limitations
 
-Of course! Here are four limitations framed in UK English:
+
 
 1. **Data Completeness and Quality**: The insights and recommendations in this project rely on the available data from the Apple App Store dataset. However, the dataset may contain missing or incomplete information, potentially leading to biases or inaccuracies in the analysis. Furthermore, the quality of user-generated data, such as ratings and reviews, may vary, affecting the reliability of the findings.
 
