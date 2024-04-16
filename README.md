@@ -26,8 +26,11 @@ This project delves into the Apple App Store dataset to extract insights guiding
 
 ## Data sources
 
+The primary data source for this project was the Apple app store dataset which can be found on Kaggle.
+
 ## Tools
 
+SQL- I utilised SQL, a powerful database querying language, to extract, filter, and analyse data from the Apple App Store dataset, enabling me to uncover valuable insights and trends for strategic decision-making in app development.
 
 ## Data Cleaning and Preparation
 
@@ -148,17 +151,17 @@ WHERE a.rank = 1;
 
 ## Results and Findings
 
- 1. paid apps have better ratings 
+ 1. paid apps have better ratings. 
 
- 2. apps supporting between 10 and 30 languages have better ratings 
+ 2. apps supporting between 10 and 30 languages have better ratings. 
 
- 3. finance and book apps have low ratings 
+ 3. finance and book apps have low ratings. 
  
- 4. apps with longer descriptions have better ratings 
+ 4. apps with longer descriptions have better ratings. 
  
- 5. a new app should aim for a rating of atleast 3.5 and above
+ 5. a new app should aim for a rating of atleast 3.5 and above.
  
- 6. games and entertainment apps have a higher competition
+ 6. games and entertainment apps have a higher competition.
   
 
 
@@ -182,4 +185,16 @@ Certainly! Here are the recommendations in UK English:
 By incorporating these recommendations into your app development strategy, you can increase the likelihood of developing successful and well-received apps that resonate with users and achieve higher ratings in the competitive app market.
 ## Limitations
 
+Of course! Here are four limitations framed in UK English:
+
+1. **Data Completeness and Quality**: The insights and recommendations in this project rely on the available data from the Apple App Store dataset. However, the dataset may contain missing or incomplete information, potentially leading to biases or inaccuracies in the analysis. Furthermore, the quality of user-generated data, such as ratings and reviews, may vary, affecting the reliability of the findings.
+
+2. **Scope of Analysis**: This analysis primarily focuses on quantitative metrics such as app ratings, pricing, and genres. While these metrics offer valuable insights, they may not fully capture qualitative aspects such as user preferences, market trends, or competitor strategies. A more comprehensive analysis incorporating qualitative research methods could provide a deeper understanding of the app market landscape.
+
+3. **Limited Generalisability**: The findings and recommendations derived from this project may be specific to the Apple App Store dataset and its characteristics. The app market landscape is dynamic and may vary across different platforms, regions, and time periods. Therefore, the insights generated may not be directly applicable to other app stores or markets without further validation and contextualisation.
+
+4. **Assumptions and Interpretations**: The analysis involves making assumptions and interpretations based on the available data and analytical techniques. These assumptions may not always accurately reflect real-world scenarios or user behaviour. Additionally, interpretations of the findings are subject to the analyst's perspective and expertise, introducing potential biases or limitations in the conclusions drawn from the analysis.
+
 ## References
+
+
