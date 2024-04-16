@@ -151,17 +151,17 @@ WHERE a.rank = 1;
 
 ## Results and Findings
 
- 1. paid apps have better ratings. 
+ 1. Paid apps have better ratings. 
 
- 2. apps supporting between 10 and 30 languages have better ratings. 
+ 2. Apps supporting between 10 and 30 languages have better ratings. 
 
- 3. finance and book apps have low ratings. 
+ 3. Finance and book apps have low ratings. 
  
- 4. apps with longer descriptions have better ratings. 
+ 4. Apps with longer descriptions have better ratings. 
  
- 5. a new app should aim for a rating of atleast 3.5 and above.
+ 5. A new app should aim for a rating of atleast 3.5 and above.
  
- 6. games and entertainment apps have a higher competition.
+ 6. Games and entertainment apps have a higher competition.
   
 
 
