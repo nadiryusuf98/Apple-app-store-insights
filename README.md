@@ -196,5 +196,17 @@ By incorporating these recommendations into your app development strategy, you c
 4. **Assumptions and Interpretations**: The analysis involves making assumptions and interpretations based on the available data and analytical techniques. These assumptions may not always accurately reflect real-world scenarios or user behaviour. Additionally, interpretations of the findings are subject to the analyst's perspective and expertise, introducing potential biases or limitations in the conclusions drawn from the analysis.
 
 ## References
+Certainly! Here's the reference formatted for your GitHub:
 
+---
+
+**Kaggle Dataset: Apple App Store Apps**
+
+**Description:**  
+This Kaggle dataset provides a comprehensive collection of data related to Apple App Store apps, including app names, categories, user ratings, pricing, and more. It serves as a valuable resource for data analysis and machine learning projects focused on mobile applications.
+
+**Link:**  
+[Apple App Store Apps Dataset on Kaggle](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps?resource=download)
+
+---
 
